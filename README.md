@@ -4,8 +4,8 @@
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> 
-  <img alt="Top Langs" height="200x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="180x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=ture" />
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange)

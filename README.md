@@ -1,5 +1,5 @@
 なんかHTMLが1位なの癪なのでプログラミングがんばります
-
+UnityのプロジェクトとかGit管理しとけばよかった･･･
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&theme=onedark&column=7" alt="trophy">

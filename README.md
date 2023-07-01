@@ -8,4 +8,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8)

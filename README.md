@@ -1,3 +1,5 @@
+なんかHTMLが1位なの癪なのでプログラミングがんばります
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 

@@ -1,16 +1,21 @@
 なんかHTMLが1位なの癪なのでプログラミングがんばります
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&theme=onedark&column=7" alt="trophy">
+  </a>
+</div>
 
-<p align="left"> 
-  <img alt="Top Langs" height="185x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="185px" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=ture" />
-</p>
+<div align="center">
+  <img alt="Top Langs" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&show_icons=true&theme=onedark">
+  <img alt="github stats" height="185" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=true">
+</div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange" style="width: 800px;">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="800">
+</div>
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="400px">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8" width="400px">
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="400">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8" width="400">
 </div>

@@ -8,7 +8,7 @@
   <img alt="github stats" height="185px" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiryu-Toujima-1f10210346&theme=slateorange" style="width: 800px;">
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="400px">

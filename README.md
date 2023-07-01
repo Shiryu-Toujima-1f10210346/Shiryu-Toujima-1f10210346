@@ -13,3 +13,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8)
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="400px">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8" width="400px">
+</div>

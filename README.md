@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img alt="Top Langs" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&show_icons=true&theme=onedark">
   <img alt="github stats" height="185" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=true">
 </div>
 

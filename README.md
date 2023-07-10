@@ -6,6 +6,8 @@
   </a>
 </div>
 
+//https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark
+
 <div align="center">
   <img alt="github stats" height="185" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=true">
 </div>

@@ -6,9 +6,10 @@
   </a>
 </div>
 
-//https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark
+
 
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={名前}&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   <img alt="github stats" height="185" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=true">
 </div>
 

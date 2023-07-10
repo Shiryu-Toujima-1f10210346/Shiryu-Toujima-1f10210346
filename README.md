@@ -9,7 +9,6 @@
 
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
   <img alt="github stats" height="185" src="https://github-readme-stats.vercel.app/api?username=Shiryu-Toujima-1f10210346&theme=onedark&show_icons=true">
 </div>
 
@@ -21,3 +20,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiryu-Toujima-1f10210346&theme=slateorange" width="400">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8" width="400">
 </div>
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

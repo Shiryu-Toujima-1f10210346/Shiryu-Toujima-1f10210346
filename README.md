@@ -21,5 +21,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shiryu-Toujima-1f10210346&theme=slateorange&utcOffset=8" width="400">
 </div>
 
+<div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiryu-Toujima-1f10210346&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+  

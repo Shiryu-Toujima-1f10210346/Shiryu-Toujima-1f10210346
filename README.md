@@ -1,8 +1,8 @@
-## 地球温暖化を止めるべくGithubで植林活動を行っています
+<h1 align="center"> 地球温暖化を止めるべくGithubで植林活動を行っています </h1>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&theme=onedark&column=7" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shiryu-Toujima-1f10210346&title=MultiLanguage&theme=onedark&column=1" alt="trophy">
   </a>
 </div>
 

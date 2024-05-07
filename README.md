@@ -1,6 +1,6 @@
 <div align="center">
     
-![Welcome Banner](https://typograssy.deno.dev/api?text=WELCOME%20TO%20MY%20PROFILE!%20&comment=)
+![welcome](https://typograssy.deno.dev/api?text=Github%E3%81%A7%E6%A4%8D%E6%9E%97%E6%B4%BB%E5%8B%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%20&speed=50&comment=)
 
 
 <h2 地球温暖化を止めるべくGithubで植林活動を行っています </h2>
